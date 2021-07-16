@@ -1,6 +1,5 @@
 package panier;
 
-import entities.CreditCard;
 
 import java.util.Scanner;
 
